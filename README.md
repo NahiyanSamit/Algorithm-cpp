@@ -17,4 +17,4 @@
 5. Quict sort
 
 ## License
-[The MIT LICENSE](.LICENSE)
+[The MIT LICENSE](https://github.com/NahiyanSamit/Algorithm-cpp/blob/main/LICENSE)

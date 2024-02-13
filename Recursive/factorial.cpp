@@ -1,4 +1,5 @@
 // A Factorial algorithm implementation in cpp
+// Time Complexity: O(n)
 
 #include <iostream>
 
@@ -9,8 +10,7 @@ int factorial(int n) {
     else
     {
         return n * factorial(n - 1);
-    }
-        
+    }      
 }
 
 int main() {
